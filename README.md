@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jaimin Babariya 👋</h1>
-<h3 align="center">Data Engineer & AI/ML Engineer · GCP · Apache Beam · dbt · Python</h3>
+<h3 align="center">Data Engineer & AI Engineer · GCP · Apache Beam · dbt · Python</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jaiminbabariya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
