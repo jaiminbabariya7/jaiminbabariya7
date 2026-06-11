@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jaimin Babariya</h1>
-<h3 align="center">Data Engineer & AI Engineer · GCP · Apache Beam · dbt · Python</h3>
+<h3 align="center">Data Engineer & Data Scientist · GCP · Apache Beam · dbt · Python</h3>
 
 <p align="center">
   <a href="tel:+14373754200"><img src="https://img.shields.io/badge/%E2%98%8E%20PHONE-437--375--4200-34A853?style=for-the-badge&logoColor=white" alt="Phone"/></a>
