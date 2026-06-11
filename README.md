@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jaimin Babariya 👋</h1>
+<h1 align="center">Hi, I'm Jaimin Babariya</h1>
 <h3 align="center">Data Engineer & AI Engineer · GCP · Apache Beam · dbt · Python</h3>
 
 <p align="center">
