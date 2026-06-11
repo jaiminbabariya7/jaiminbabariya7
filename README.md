@@ -1,22 +1,23 @@
 <h1 align="center">Hi, I'm Jaimin Babariya</h1>
-<h3 align="center">Data Engineer & Data Scientist · GCP · Apache Beam · dbt · Python</h3>
+<h3 align="center">Azure & GCP Data Engineer · Databricks · Apache Beam · dbt · Python</h3>
 
 <p align="center">
-  <a href="tel:+14373754200"><img src="https://img.shields.io/badge/%E2%98%8E%20PHONE-437--375--4200-34A853?style=for-the-badge&logoColor=white" alt="Phone"/></a>
-  <a href="mailto:jaimin.babariya98@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jexpatel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.credly.com/badges/97d9c598-095e-43cd-9404-2cfed701cec3/public_url"><img src="https://img.shields.io/badge/GCP-Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/></a>
+<a href="tel:+14373754200"><img src="https://img.shields.io/badge/%E2%98%8E%20PHONE-437--375--4200-34A853?style=for-the-badge&logoColor=white" alt="Phone"/></a>
+<a href="mailto:jaimin.babariya98@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jexpatel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.credly.com/badges/97d9c598-095e-43cd-9404-2cfed701cec3/public_url"><img src="https://img.shields.io/badge/GCP-Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/></a>
 </p>
 
 ---
 
 ## About Me
 
-I build **real-time data pipelines and ML systems across cloud data platforms, with hands-on project experience in GCP and working knowledge of Azure data services**. My work spans the full DE/ML lifecycle — from streaming ingestion and warehouse modelling to model training, deployment, and monitoring.
+I build **real-time data pipelines and ML systems across Azure and GCP**, spanning the full DE/ML lifecycle — from streaming ingestion and lakehouse/warehouse modelling to model training, deployment, and monitoring.
 
-- Currently: End-to-end real-time pipelines on GCP (Pub/Sub → Dataflow → BigQuery)
-- AI/ML: LSTM forecasting, transfer learning, NLP sentiment analysis, MLOps
-- Stack: Python · Apache Beam · dbt · Airflow · BigQuery · Spark · TensorFlow · Flask
+- **Azure:** ADLS Gen2 lake storage, Databricks (PySpark), Data Factory orchestration, Synapse Analytics / Synapse Studio
+- **GCP:** End-to-end real-time pipelines (Pub/Sub → Dataflow → BigQuery)
+- **AI / ML:** LSTM forecasting, transfer learning, NLP sentiment analysis, MLOps
+- **Core stack:** Python · PySpark · Apache Beam · dbt · Airflow · Spark · TensorFlow
 
 ---
 
@@ -37,11 +38,14 @@ I build **real-time data pipelines and ML systems across cloud data platforms, w
 
 ## Tech Stack
 
+**Cloud — Azure**
+`ADLS Gen2` `Azure Databricks` `Azure Data Factory` `Synapse Analytics` `Synapse Studio`
+
+**Cloud — GCP**
+`BigQuery` `Cloud Storage` `Cloud Run` `Dataproc` `Cloud Composer` `Cloud Build`
+
 **Data Engineering**
 `Apache Beam` `Apache Airflow` `dbt` `Apache Spark` `PySpark` `Kafka` `Dataflow` `Pub/Sub`
-
-**Cloud (GCP)**
-`BigQuery` `Cloud Storage` `Cloud Run` `Dataproc` `Cloud Composer` `Cloud Build`
 
 **AI / ML**
 `TensorFlow` `Keras` `scikit-learn` `Hugging Face` `OpenCV` `LSTM` `ARIMA` `XGBoost`
@@ -54,6 +58,6 @@ I build **real-time data pipelines and ML systems across cloud data platforms, w
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiminbabariya7&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiminbabariya7&layout=compact&theme=default&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jaiminbabariya7&show_icons=true&theme=default&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiminbabariya7&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
