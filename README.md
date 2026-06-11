@@ -14,14 +14,13 @@
 
 I build **real-time data pipelines and ML systems on Google Cloud Platform**. My work spans the full DE/ML lifecycle — from streaming ingestion and warehouse modelling to model training, deployment, and monitoring.
 
-- 🔭 Currently: End-to-end real-time pipelines on GCP (Pub/Sub → Dataflow → BigQuery)
-- 🤖 AI/ML: LSTM forecasting, transfer learning, NLP sentiment analysis, MLOps
-- 🛠 Stack: Python · Apache Beam · dbt · Airflow · BigQuery · Spark · TensorFlow · Flask
-- 📫 Reach me: jaiminbabariya7@gmail.com
+- Currently: End-to-end real-time pipelines on GCP (Pub/Sub → Dataflow → BigQuery)
+- AI/ML: LSTM forecasting, transfer learning, NLP sentiment analysis, MLOps
+- Stack: Python · Apache Beam · dbt · Airflow · BigQuery · Spark · TensorFlow · Flask
 
 ---
 
-## 🚀 Flagship Projects
+## Flagship Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -36,7 +35,7 @@ I build **real-time data pipelines and ML systems on Google Cloud Platform**. My
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Data Engineering**
 `Apache Beam` `Apache Airflow` `dbt` `Apache Spark` `PySpark` `Kafka` `Dataflow` `Pub/Sub`
@@ -52,7 +51,7 @@ I build **real-time data pipelines and ML systems on Google Cloud Platform**. My
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaiminbabariya7&show_icons=true&theme=default&hide_border=true" height="150"/>
