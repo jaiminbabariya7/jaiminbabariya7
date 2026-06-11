@@ -12,7 +12,7 @@
 
 ## About Me
 
-I build **real-time data pipelines and ML systems on Google Cloud Platform & Azure**. My work spans the full DE/ML lifecycle — from streaming ingestion and warehouse modelling to model training, deployment, and monitoring.
+I build **real-time data pipelines and ML systems across cloud data platforms, with hands-on project experience in GCP and working knowledge of Azure data services.**. My work spans the full DE/ML lifecycle — from streaming ingestion and warehouse modelling to model training, deployment, and monitoring.
 
 - Currently: End-to-end real-time pipelines on GCP (Pub/Sub → Dataflow → BigQuery)
 - AI/ML: LSTM forecasting, transfer learning, NLP sentiment analysis, MLOps
