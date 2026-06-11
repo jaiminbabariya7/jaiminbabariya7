@@ -5,7 +5,7 @@
   <a href="tel:+14373754200"><img src="https://img.shields.io/badge/%E2%98%8E%20PHONE-437--375--4200-34A853?style=for-the-badge&logoColor=white" alt="Phone"/></a>
   <a href="mailto:jaimin.babariya98@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jexpatel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="[/Users/jexpatel/Desktop/Jaimin_Google_PDE_Certificate.pdf](https://www.credly.com/badges/97d9c598-095e-43cd-9404-2cfed701cec3/public_url"><img src="https://img.shields.io/badge/GCP-Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/></a>
+  <a href="https://www.credly.com/badges/97d9c598-095e-43cd-9404-2cfed701cec3/public_url"><img src="https://img.shields.io/badge/GCP-Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/></a>
 </p>
 
 ---
