@@ -1,9 +1,8 @@
-<h1 align="center">Hi, I'm Jaimin Babariya</h1>
-<h3 align="center">Data Professional · Databricks · Apache Beam · dbt · Python · Azure · GCP</h3>
+<h3 align="center">Data Engineer · Google Cloud Certified Professional Data Engineer · GCP · Python · SQL · dbt · Airflow · Databricks</h3>
 
 <p align="center">
 <a href="mailto:jaimin.babariya98@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/jexpatel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jaimin-babariya-96b45041a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.credly.com/badges/97d9c598-095e-43cd-9404-2cfed701cec3/public_url"><img src="https://img.shields.io/badge/GCP-Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/></a>
 </p>
 
@@ -11,12 +10,13 @@
 
 ## About Me
 
-I build **real-time data pipelines and ML systems across Azure and GCP**, spanning the full DE/ML lifecycle — from streaming ingestion and lakehouse/warehouse modelling to model training, deployment, and monitoring.
+Data Engineer at **Pavansut Inc.** (Jun 2024 – Present) building scalable batch and streaming data pipelines that turn raw, high-volume data into clean, validated, analytics-ready datasets.
 
-- **Azure:** ADLS Gen2 lake storage, Databricks (PySpark), Data Factory orchestration, Synapse Analytics / Synapse Studio
-- **GCP:** End-to-end real-time pipelines (Pub/Sub → Dataflow → BigQuery)
-- **AI / ML:** LSTM forecasting, transfer learning, NLP sentiment analysis, MLOps
-- **Core stack:** Python · PySpark · Apache Beam · dbt · Airflow · Spark · TensorFlow
+- **Primary cloud — GCP:** end-to-end pipelines on BigQuery, Dataflow, Pub/Sub, Cloud Storage, and Cloud Run
+- **Hands-on with Azure:** ADLS Gen2, Synapse, Data Factory, Databricks
+- **Transformation & orchestration:** dbt, Apache Airflow, Apache Beam, Databricks / PySpark
+- **AI / ML:** time-series forecasting (LSTM), transfer learning, NLP sentiment analysis, MLOps
+- **Core stack:** Python · SQL · dbt · Airflow · Apache Beam · Databricks · PySpark · BigQuery
 
 ---
 
@@ -37,20 +37,20 @@ I build **real-time data pipelines and ML systems across Azure and GCP**, spanni
 
 ## Tech Stack
 
+**Cloud — GCP**
+`BigQuery` `Dataflow` `Pub/Sub` `Cloud Storage` `Cloud Run` `Cloud Composer` `Dataproc` `Cloud Build`
+
 **Cloud — Azure**
 `ADLS Gen2` `Azure Databricks` `Azure Data Factory` `Synapse Analytics` `Synapse Studio`
 
-**Cloud — GCP**
-`BigQuery` `Cloud Storage` `Cloud Run` `Dataproc` `Cloud Composer` `Cloud Build`
-
 **Data Engineering**
-`Apache Beam` `Apache Airflow` `dbt` `Apache Spark` `PySpark` `Kafka` `Dataflow` `Pub/Sub`
+`dbt` `Apache Airflow` `Apache Beam` `Apache Spark` `PySpark` `Databricks` `Kafka` `Dataflow` `Pub/Sub`
 
 **AI / ML**
 `TensorFlow` `Keras` `scikit-learn` `Hugging Face` `OpenCV` `LSTM` `ARIMA` `XGBoost`
 
 **Languages & Tools**
-`Python` `SQL` `Java` `Docker` `Git` `Flask`
+`Python` `SQL` `Java` `Shell` `Docker` `Git` `Flask`
 
 ---
 
