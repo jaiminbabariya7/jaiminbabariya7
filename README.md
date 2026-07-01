@@ -10,7 +10,7 @@
 
 ## About Me
 
-Data Engineer at **Pavansut Inc.** (Jun 2024 – Present) building scalable batch and streaming data pipelines that turn raw, high-volume data into clean, validated, analytics-ready datasets.
+Data Engineer at **Pavansut Inc.** (Dec 2024 – Present) building scalable batch and streaming data pipelines that turn raw, high-volume data into clean, validated, analytics-ready datasets.
 
 - **Primary cloud — GCP:** end-to-end pipelines on BigQuery, Dataflow, Pub/Sub, Cloud Storage, and Cloud Run
 - **Hands-on with Azure:** ADLS Gen2, Synapse, Data Factory, Databricks
