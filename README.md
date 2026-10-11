@@ -14,7 +14,7 @@ Data Engineer at **Pavansut Inc.** (Sept 2024 – Present) building scalable bat
 
 - **Primary cloud — GCP:** end-to-end pipelines on BigQuery, Dataflow, Pub/Sub, Cloud Storage, and Cloud Run
 - **Transformation & orchestration:** dbt, Apache Airflow, Apache Beam, Databricks / PySpark
-- **AI / ML:** time-series forecasting (LSTM), transfer learning, NLP sentiment analysis, MLOps
+- **AI / ML:** LLM-powered data quality monitoring (OpenAI API), time-series forecasting (Temporal Fusion Transformer), transfer learning (ResNet50), MLOps
 - **Core stack:** Python · SQL · dbt · Airflow · Apache Beam · Databricks · PySpark · BigQuery
 
 ---
@@ -27,9 +27,11 @@ Data Engineer at **Pavansut Inc.** (Sept 2024 – Present) building scalable bat
 | [Spark Data Lakehouse (GCP)](https://github.com/jaiminbabariya7/spark-data-lakehouse-gcp) | Medallion lakehouse (Bronze→Silver→Gold): PySpark on ephemeral Dataproc → BigQuery, orchestrated by Airflow with Terraform IaC | PySpark, Dataproc, BigQuery, Airflow |
 | [Analytics Engineering (dbt + BigQuery)](https://github.com/jaiminbabariya7/analytics-engineering-dbt-bigquery) | dbt staging→mart models, SCD Type 2 snapshots, BigQuery ML churn model, Airflow orchestration | dbt, BigQuery, BigQuery ML, Airflow |
 | [Kafka CDC Real-Time Pipeline](https://github.com/jaiminbabariya7/kafka-cdc-realtime-pipeline) | Change data capture: Debezium → Kafka → BigQuery streaming inserts with 30s micro-batch aggregations | Debezium, Kafka, PostgreSQL, BigQuery |
-| [E-Commerce Data Lakehouse](https://github.com/jaiminbabariya7/ecommerce-data-lakehouse) | ELT: GCS → BigQuery → dbt star schema → RFM segmentation, cohort retention & revenue trends | BigQuery, dbt, Airflow, SQL |
+| [E-Commerce Data Lakehouse](https://github.com/jaiminbabariya7/ecommerce-data-lakehouse) | ELT: synthetic data → GCS → BigQuery → SQL analytics: RFM segmentation, cohort retention & revenue trends | BigQuery, Airflow, SQL |
 | [Multi-Location Restaurant Analytics](https://github.com/jaiminbabariya7/restaurant-analytics-pipeline) | Batch POS → medallion marts + owner dashboards: menu engineering, demand & margins (synthetic data) | Python, dbt, DuckDB, Airflow |
-| [LLM-Powered Data Quality Monitoring](https://github.com/jaiminbabariya7/llm-data-quality-monitoring) | BigQuery profiling + statistical anomaly detection + GPT-4 explanations, served via FastAPI & Airflow | BigQuery, GPT-4, FastAPI, Airflow |
+| [LLM-Powered Data Quality Monitoring](https://github.com/jaiminbabariya7/llm-data-quality-monitoring) | BigQuery profiling + statistical anomaly detection + OpenAI LLM explanations, served via FastAPI & Airflow | BigQuery, OpenAI, FastAPI, Airflow |
+| [Image Classification via Transfer Learning](https://github.com/jaiminbabariya7/ImageSegregation_TransferLearning) | Capstone project (St. Clair College): Core vs Well Log images with ResNet50 transfer learning, 95.4% test accuracy | TensorFlow, Keras, OpenCV |
+
 ---
 
 ## Tech Stack
@@ -41,7 +43,7 @@ Data Engineer at **Pavansut Inc.** (Sept 2024 – Present) building scalable bat
 `dbt` `Apache Airflow` `Apache Beam` `Apache Spark` `PySpark` `Databricks` `Kafka` `Dataflow` `Pub/Sub`
 
 **AI / ML**
-`TensorFlow` `Keras` `scikit-learn` `Hugging Face` `OpenCV` `LSTM` `ARIMA` `XGBoost`
+`PyTorch` `TensorFlow` `Keras` `scikit-learn` `Hugging Face` `OpenCV` `LSTM` `ARIMA` `XGBoost`
 
 **Languages & Tools**
 `Python` `SQL` `Shell` `Docker` `Git` `Flask`
